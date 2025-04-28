@@ -5,3 +5,4 @@ change lavalink   {
       port:  9372,
       secure: false
     }
+};
